@@ -1,4 +1,3 @@
-# GoGo
-Free Bootstrap template for chat bot landing page
+# Legalbot
 
-Demo: http://imondal007.github.io/gogo/demo
+A landing page for a facebook chatbot to communicate legal advice to migrant workers
